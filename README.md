@@ -1,6 +1,8 @@
 # Google Charts API TypeScript Definitions
 ---
 
+[![Join the chat at https://gitter.im/angular-google-chart/google-chart-typings](https://badges.gitter.im/angular-google-chart/google-chart-typings.svg)](https://gitter.im/angular-google-chart/google-chart-typings?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Written as a step toward converting Angular-Google-Chart to TypeScript,
 this definition file for the Google Charts API is available on it's own here.
 
